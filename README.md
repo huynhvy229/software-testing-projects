@@ -14,5 +14,7 @@ Tôi chịu trách nhiệm chính kiểm thử các module cốt lõi sau:
 
 ## Cấu trúc thư mục
 * `/srs`: Tài liệu yêu cầu.
+* `/diagrams`: Sơ đồ luồng nghiệp vụ (Workflow) & Logic hệ thống.
 * `/test-cases`: File kịch bản kiểm thử.
-* `/test-report`: Báo cáo lỗi và báo cáo tổng kết.# software-testing-projects
+* `/test-report`: Báo cáo lỗi và báo cáo tổng kết.
+# software-testing-projects
